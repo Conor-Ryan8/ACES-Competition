@@ -1,2 +1,0 @@
-# ACES-Competition
-Intern competition
