@@ -1,4 +1,6 @@
-# Driver=Attention-Monitor
+# Driver-Attention-Monitor
+
+(Intern Project)
 
 For the ACES (Autonomous Connected Electric Shared) competition my team was given the safety topic. 
 
@@ -13,7 +15,7 @@ The system tackles the issue of distracted driving by monitoring:
 Part of my role was to create the android application to represent the dashboard.
 
 <p float="left">
-  <img src="pics/13.jpg" width="250" />
-  <img src="pics/14.jpg" width="250" />
-  <img src="pics/15.jpg" width="250" />
+  <img src="13.jpg" width="250" />
+  <img src="14.jpg" width="250" />
+  <img src="15.jpg" width="250" />
 </p>
